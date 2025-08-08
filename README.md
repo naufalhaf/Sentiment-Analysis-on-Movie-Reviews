@@ -57,6 +57,19 @@ df = pd.read_csv(r"YOUR_DATASET_FILE_PATH_HERE")
 - Make sure the file path to the dataset matches the location on your computer.
 - You can adjust vectorizer parameters or classifiers as needed for experimentation.
 
+## Results
+
+## WordClouds
+  ### positive Words
+![Positive Words](images/Most_Frequent_Positive_Words.png)
+  ### Nigative Words
+![Negative Words](images/Most_Frequent_Nigative_Words.png)
+
+## Model Accuracy
+![Accuracy](images/Accuracy.png)
+
+
+
 ## License
 
 This project is open source and available under the MIT License.
